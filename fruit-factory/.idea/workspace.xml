@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="47eedc80-5526-41d2-9cbd-2acbd600da89" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1197159511">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.123" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.70" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="FruitFactory" value="1" />
+          <entry key="Ibanana" value="1" />
+          <entry key="IbananaFactory" value="1" />
+          <entry key="aaa" value="1" />
+          <entry key="appleBeverages" value="1" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="53" />
+          <entry key="main" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="JAVA" value="54" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="UML" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="7" />
+          <entry key="java" value="704" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="704" />
+          <entry key="PLAIN_TEXT" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/factory/simplefactory/FruitFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="4" selection-start-line="4" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/factory/abstractfactory/FruitFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/factory/abstractfactory/MyCompote.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" selection-start-line="3" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/factory/abstractfactory/MyBeverages.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/factory/abstractfactory/AbstractFactoryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/factory/abstractfactory/appleFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/factory/abstractfactory/bananaFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+              <folding>
+                <element signature="e#128#129#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+                <element signature="e#253#254#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/factory/abstractfactory/appleCompote.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="5" column="5" selection-start-line="3" selection-start-column="3" selection-end-line="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/factory/abstractfactory/bananaCompote.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/factory/Apple.java" />
+        <option value="$PROJECT_DIR$/src/factory/simplefactory/simplefactory/MyFruit.java" />
+        <option value="$PROJECT_DIR$/src/factory/simplefactory/simplefactory/Apple.java" />
+        <option value="$PROJECT_DIR$/src/factory/simplefactory/MyFruit.java" />
+        <option value="$PROJECT_DIR$/src/factory/simplefactory/Apple.java" />
+        <option value="$PROJECT_DIR$/src/factory/simplefactory/apple.java" />
+        <option value="$PROJECT_DIR$/src/factory/simplefactory/Iapple.java" />
+        <option value="$PROJECT_DIR$/src/main/simplefactory/FruitFactory.java" />
+        <option value="$PROJECT_DIR$/src/simplefactory/simplefactory/FruitFactory.java" />
+        <option value="$PROJECT_DIR$/src/factory/simplefactory/FruitFactory.java" />
+        <option value="$PROJECT_DIR$/src/factory/FruitFactory.java" />
+        <option value="$PROJECT_DIR$/src/factory/factorymethod/MyFruitFactory.java" />
+        <option value="$PROJECT_DIR$/src/factory/factorymethod/IappleFactory.java" />
+        <option value="$PROJECT_DIR$/src/factory/factorymethod/IbananaFactory.java" />
+        <option value="$PROJECT_DIR$/src/factory/abstractfactory/Compote.java" />
+        <option value="$PROJECT_DIR$/src/factory/abstractfactory/Drink.java" />
+        <option value="$PROJECT_DIR$/src/factory/MyFruit.java" />
+        <option value="$PROJECT_DIR$/src/factory/Ibanana.java" />
+        <option value="$PROJECT_DIR$/src/factory/Iapple.java" />
+        <option value="$PROJECT_DIR$/src/factory/simplefactory/SimpleFactoryTest.java" />
+        <option value="$PROJECT_DIR$/src/factory/factorymethod/FactoryMethodTest.java" />
+        <option value="$PROJECT_DIR$/src/factory/abstractfactory/FruitFactory.java" />
+        <option value="$PROJECT_DIR$/src/factory/abstractfactory/Beverages.java" />
+        <option value="$PROJECT_DIR$/src/factory/abstractfactory/IappleFactory.java" />
+        <option value="$PROJECT_DIR$/src/factory/abstractfactory/appleCompote.java" />
+        <option value="$PROJECT_DIR$/src/factory/abstractfactory/appleBeverages.java" />
+        <option value="$PROJECT_DIR$/src/factory/abstractfactory/bananaBeverages.java" />
+        <option value="$PROJECT_DIR$/src/factory/abstractfactory/bananaCompote.java" />
+        <option value="$PROJECT_DIR$/src/factory/abstractfactory/MyCompote.java" />
+        <option value="$PROJECT_DIR$/src/factory/abstractfactory/appleFactory.java" />
+        <option value="$PROJECT_DIR$/src/factory/abstractfactory/bananaFactory.java" />
+        <option value="$PROJECT_DIR$/src/factory/abstractfactory/AbstractFactoryTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="18" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fruit-factory" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fruit-factory" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552198775491" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Media\IntelliJ IDEA 2018.2.5\fruit-factory\src\factory" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.AbstractFactoryTest">
+    <configuration name="AbstractFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="factory.abstractfactory.AbstractFactoryTest" />
+      <module name="fruit-factory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="factory.abstractfactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FactoryMethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="factory.factorymethod.FactoryMethodTest" />
+      <module name="fruit-factory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="factory.factorymethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleFactoryTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="factory.simplefactory.SimpleFactoryTest" />
+      <module name="fruit-factory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="factory.simplefactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleFactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="simplefactory.simplefactory.SimpleFactoryTest" />
+      <module name="fruit-factory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="simplefactory.simplefactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SimpleFactoryTest" />
+      <item itemvalue="Application.FactoryMethodTest" />
+      <item itemvalue="Application.SimpleFactoryTest (1)" />
+      <item itemvalue="Application.AbstractFactoryTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AbstractFactoryTest" />
+        <item itemvalue="Application.SimpleFactoryTest (1)" />
+        <item itemvalue="Application.FactoryMethodTest" />
+        <item itemvalue="Application.SimpleFactoryTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47eedc80-5526-41d2-9cbd-2acbd600da89" name="Default Changelist" comment="" />
+      <created>1552120227130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552120227130</updated>
+      <workItem from="1552120228856" duration="4336000" />
+      <workItem from="1552178290872" duration="5275000" />
+      <workItem from="1552183738340" duration="7759000" />
+      <workItem from="1552789428015" duration="872000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="18242000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="18" y="20" width="1346" height="688" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2636081" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3291367" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3291367" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3291367" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main" />
+    <entry file="file://$PROJECT_DIR$/src/aaa" />
+    <entry file="file://$PROJECT_DIR$/src/factory/simplefactory/Iapple.java" />
+    <entry file="file://$PROJECT_DIR$/src/factory/simplefactory/MyFruit.java" />
+    <entry file="file://$PROJECT_DIR$/fruit-factory.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/factory.factorymethod.IbananaFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>factory.factorymethod.IbananaFactory</OriginalElement>
+          <nodes>
+            <node x="340.0" y="114.0">factory.Ibanana</node>
+            <node x="250.65624999999997" y="0.0">factory.MyFruit</node>
+            <node x="240.54513888888886" y="322.0">factory.factorymethod.FactoryMethodTest</node>
+            <node x="162.99999999999997" y="114.0">factory.factorymethod.MyFruitFactory</node>
+            <node x="0.0" y="114.0">factory.Iapple</node>
+            <node x="59.41666666666663" y="218.0">factory.factorymethod.IappleFactory</node>
+            <node x="342.48958333333337" y="218.0">factory.factorymethod.IbananaFactory</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="factory.Iapple" target="factory.MyFruit">
+              <point x="0.0" y="-27.0" />
+              <point x="71.0" y="74.0" />
+              <point x="262.48958333333326" y="74.0" />
+              <point x="-59.166666666666686" y="27.0" />
+            </edge>
+            <edge source="factory.factorymethod.FactoryMethodTest" target="factory.MyFruit">
+              <point x="64.875" y="-27.0" />
+              <point x="391.92013888888886" y="302.0" />
+              <point x="511.73958333333337" y="302.0" />
+              <point x="511.73958333333337" y="74.0" />
+              <point x="380.82291666666663" y="74.0" />
+              <point x="59.166666666666686" y="27.0" />
+            </edge>
+            <edge source="factory.factorymethod.FactoryMethodTest" target="factory.factorymethod.IappleFactory">
+              <point x="-64.875" y="-27.0" />
+              <point x="262.17013888888886" y="302.0" />
+              <point x="137.91666666666663" y="302.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="factory.Ibanana" target="factory.MyFruit">
+              <point x="0.0" y="-27.0" />
+              <point x="411.0" y="94.0" />
+              <point x="333.48958333333337" y="94.0" />
+              <point x="11.833333333333371" y="27.0" />
+            </edge>
+            <edge source="factory.factorymethod.IappleFactory" target="factory.factorymethod.MyFruitFactory">
+              <point x="52.33333333333334" y="-27.0" />
+              <point x="190.24999999999997" y="193.0" />
+              <point x="189.16666666666663" y="193.0" />
+              <point x="-52.33333333333334" y="27.0" />
+            </edge>
+            <edge source="factory.factorymethod.IappleFactory" target="factory.MyFruit">
+              <point x="0.0" y="-27.0" />
+              <point x="137.91666666666663" y="193.0" />
+              <point x="152.49999999999997" y="193.0" />
+              <point x="152.49999999999997" y="84.0" />
+              <point x="286.15625" y="84.0" />
+              <point x="-35.5" y="27.0" />
+            </edge>
+            <edge source="factory.factorymethod.FactoryMethodTest" target="factory.factorymethod.MyFruitFactory">
+              <point x="-21.625" y="-27.0" />
+              <point x="305.42013888888886" y="292.0" />
+              <point x="241.49999999999997" y="292.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="factory.factorymethod.IbananaFactory" target="factory.factorymethod.MyFruitFactory">
+              <point x="-52.33333333333337" y="-27.0" />
+              <point x="368.65625" y="193.0" />
+              <point x="293.83333333333326" y="193.0" />
+              <point x="52.333333333333314" y="27.0" />
+            </edge>
+            <edge source="factory.factorymethod.MyFruitFactory" target="factory.MyFruit">
+              <point x="0.0" y="-27.0" />
+              <point x="241.49999999999997" y="94.0" />
+              <point x="309.82291666666663" y="94.0" />
+              <point x="-11.833333333333314" y="27.0" />
+            </edge>
+            <edge source="factory.factorymethod.IbananaFactory" target="factory.MyFruit">
+              <point x="52.333333333333314" y="-27.0" />
+              <point x="473.32291666666663" y="193.0" />
+              <point x="492.5" y="193.0" />
+              <point x="492.5" y="84.0" />
+              <point x="357.15625" y="84.0" />
+              <point x="35.5" y="27.0" />
+            </edge>
+            <edge source="factory.factorymethod.IbananaFactory" target="factory.Ibanana">
+              <point x="0.0" y="-27.0" />
+              <point x="420.98958333333337" y="193.0" />
+              <point x="411.0" y="193.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="factory.factorymethod.IappleFactory" target="factory.Iapple">
+              <point x="-52.33333333333334" y="-27.0" />
+              <point x="85.58333333333329" y="193.0" />
+              <point x="71.0" y="193.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="factory.factorymethod.FactoryMethodTest" target="factory.factorymethod.IbananaFactory">
+              <point x="21.625" y="-27.0" />
+              <point x="348.67013888888886" y="292.0" />
+              <point x="420.98958333333337" y="292.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="144.0" y="318.0" />
+          <SelectedNodes>
+            <node>factory.factorymethod.IbananaFactory</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/factory.simplefactory.FruitFactory">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>factory.simplefactory.FruitFactory</OriginalElement>
+          <nodes>
+            <node x="0.0" y="152.0">factory.MyFruit</node>
+            <node x="0.0" y="76.0">factory.simplefactory.FruitFactory</node>
+            <node x="0.0" y="0.0">factory.simplefactory.SimpleFactoryTest</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-180.0" y="5.0" />
+          <SelectedNodes>
+            <node>factory.simplefactory.FruitFactory</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/factory.Ibanana">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>factory.Ibanana</OriginalElement>
+          <nodes>
+            <node x="275.1458333333333" y="0.0">factory.MyFruit</node>
+            <node x="369.0" y="104.0">factory.Ibanana</node>
+            <node x="0.0" y="104.0">factory.simplefactory.FruitFactory</node>
+            <node x="207.0" y="104.0">factory.Iapple</node>
+            <node x="130.85416666666666" y="208.0">factory.simplefactory.SimpleFactoryTest</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="factory.Iapple" target="factory.MyFruit">
+              <point x="0.0" y="-27.0" />
+              <point x="278.0" y="84.0" />
+              <point x="328.3958333333333" y="84.0" />
+              <point x="-17.75" y="27.0" />
+            </edge>
+            <edge source="factory.simplefactory.SimpleFactoryTest" target="factory.Iapple">
+              <point x="21.625" y="-27.0" />
+              <point x="238.97916666666666" y="178.0" />
+              <point x="278.0" y="178.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="factory.simplefactory.FruitFactory" target="factory.MyFruit">
+              <point x="0.0" y="-27.0" />
+              <point x="93.5" y="74.0" />
+              <point x="292.8958333333333" y="74.0" />
+              <point x="-53.25" y="27.0" />
+            </edge>
+            <edge source="factory.simplefactory.SimpleFactoryTest" target="factory.simplefactory.FruitFactory">
+              <point x="-64.875" y="-27.0" />
+              <point x="152.47916666666666" y="188.0" />
+              <point x="46.75" y="188.0" />
+              <point x="-46.75" y="27.0" />
+            </edge>
+            <edge source="factory.Ibanana" target="factory.MyFruit">
+              <point x="0.0" y="-27.0" />
+              <point x="440.0" y="84.0" />
+              <point x="363.8958333333333" y="84.0" />
+              <point x="17.75" y="27.0" />
+            </edge>
+            <edge source="factory.simplefactory.SimpleFactoryTest" target="factory.MyFruit">
+              <point x="64.875" y="-27.0" />
+              <point x="282.22916666666663" y="188.0" />
+              <point x="521.5" y="188.0" />
+              <point x="521.5" y="74.0" />
+              <point x="399.39583333333337" y="74.0" />
+              <point x="53.25000000000001" y="27.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="61.0" y="109.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/MyFruit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/Ibanana.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/simplefactory/SimpleFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/factorymethod/MyFruitFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" selection-start-line="5" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/factorymethod/IbananaFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/factorymethod/IappleFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" selection-start-line="5" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/factorymethod/FactoryMethodTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/Iapple.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/abstractfactory/appleBeverages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="3" selection-start-column="3" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/abstractfactory/bananaBeverages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/factory.abstractfactory.appleBeverages">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>factory.abstractfactory.appleBeverages</OriginalElement>
+          <nodes>
+            <node x="509.58928571428567" y="165.5">factory.abstractfactory.appleCompote</node>
+            <node x="664.5892857142857" y="165.5">factory.abstractfactory.bananaBeverages</node>
+            <node x="606.8321428571429" y="291.0">factory.abstractfactory.bananaFactory</node>
+            <node x="235.5892857142857" y="154.0">factory.abstractfactory.FruitFactory</node>
+            <node x="836.5892857142857" y="165.5">factory.abstractfactory.bananaCompote</node>
+            <node x="538.6821428571428" y="0.0">factory.abstractfactory.MyCompote</node>
+            <node x="0.0" y="165.5">factory.abstractfactory.appleBeverages</node>
+            <node x="91.33214285714291" y="291.0">factory.abstractfactory.appleFactory</node>
+            <node x="169.71428571428567" y="0.0">factory.abstractfactory.MyBeverages</node>
+            <node x="131.8321428571429" y="418.0">factory.abstractfactory.AbstractFactoryTest</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="factory.abstractfactory.FruitFactory" target="factory.abstractfactory.MyCompote">
+              <point x="63.5" y="-38.5" />
+              <point x="426.08928571428567" y="124.0" />
+              <point x="574.9821428571428" y="124.0" />
+              <point x="-24.200000000000045" y="27.0" />
+            </edge>
+            <edge source="factory.abstractfactory.bananaFactory" target="factory.abstractfactory.MyCompote">
+              <point x="101.60000000000002" y="-38.5" />
+              <point x="835.4321428571429" y="271.0" />
+              <point x="992.0892857142857" y="271.0" />
+              <point x="992.0892857142857" y="74.0" />
+              <point x="647.5821428571428" y="74.0" />
+              <point x="48.39999999999998" y="27.0" />
+            </edge>
+            <edge source="factory.abstractfactory.appleFactory" target="factory.abstractfactory.MyCompote">
+              <point x="0.0" y="-38.5" />
+              <point x="218.3321428571429" y="271.0" />
+              <point x="225.0892857142857" y="271.0" />
+              <point x="225.0892857142857" y="114.0" />
+              <point x="550.7821428571428" y="114.0" />
+              <point x="-48.39999999999998" y="27.0" />
+            </edge>
+            <edge source="factory.abstractfactory.appleFactory" target="factory.abstractfactory.appleBeverages">
+              <point x="-101.60000000000002" y="-38.5" />
+              <point x="116.73214285714289" y="271.0" />
+              <point x="71.0" y="271.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="factory.abstractfactory.bananaCompote" target="factory.abstractfactory.MyCompote">
+              <point x="0.0" y="-27.0" />
+              <point x="909.0892857142857" y="84.0" />
+              <point x="623.3821428571429" y="84.0" />
+              <point x="24.200000000000045" y="27.0" />
+            </edge>
+            <edge source="factory.abstractfactory.appleCompote" target="factory.abstractfactory.MyCompote">
+              <point x="0.0" y="-27.0" />
+              <point x="577.0892857142857" y="134.0" />
+              <point x="599.1821428571428" y="134.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="factory.abstractfactory.appleBeverages" target="factory.abstractfactory.MyBeverages">
+              <point x="0.0" y="-27.0" />
+              <point x="71.0" y="84.0" />
+              <point x="183.01428571428568" y="84.0" />
+              <point x="-53.19999999999999" y="27.0" />
+            </edge>
+            <edge source="factory.abstractfactory.AbstractFactoryTest" target="factory.abstractfactory.appleFactory">
+              <point x="43.25" y="-27.0" />
+              <point x="261.5821428571429" y="393.0" />
+              <point x="281.8321428571429" y="393.0" />
+              <point x="63.5" y="38.5" />
+            </edge>
+            <edge source="factory.abstractfactory.bananaFactory" target="factory.abstractfactory.bananaBeverages">
+              <point x="0.0" y="-38.5" />
+              <point x="733.8321428571429" y="271.0" />
+              <point x="740.5892857142857" y="271.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="factory.abstractfactory.FruitFactory" target="factory.abstractfactory.MyBeverages">
+              <point x="-63.5" y="-38.5" />
+              <point x="299.08928571428567" y="104.0" />
+              <point x="262.8142857142857" y="104.0" />
+              <point x="26.599999999999994" y="27.0" />
+            </edge>
+            <edge source="factory.abstractfactory.bananaFactory" target="factory.abstractfactory.bananaCompote">
+              <point x="50.799999999999955" y="-38.5" />
+              <point x="784.6321428571429" y="261.0" />
+              <point x="909.0892857142857" y="261.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="factory.abstractfactory.bananaFactory" target="factory.abstractfactory.MyBeverages">
+              <point x="-101.60000000000002" y="-38.5" />
+              <point x="632.2321428571429" y="261.0" />
+              <point x="189.9392857142857" y="261.0" />
+              <point x="189.9392857142857" y="104.0" />
+              <point x="236.21428571428567" y="104.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+            <edge source="factory.abstractfactory.appleFactory" target="factory.abstractfactory.FruitFactory">
+              <point x="50.80000000000001" y="-38.5" />
+              <point x="269.1321428571429" y="271.0" />
+              <point x="299.08928571428567" y="271.0" />
+              <point x="-63.5" y="38.5" />
+            </edge>
+            <edge source="factory.abstractfactory.bananaBeverages" target="factory.abstractfactory.MyBeverages">
+              <point x="0.0" y="-27.0" />
+              <point x="740.5892857142857" y="94.0" />
+              <point x="289.41428571428565" y="94.0" />
+              <point x="53.19999999999999" y="27.0" />
+            </edge>
+            <edge source="factory.abstractfactory.bananaFactory" target="factory.abstractfactory.FruitFactory">
+              <point x="-50.799999999999955" y="-38.5" />
+              <point x="683.032142857143" y="251.0" />
+              <point x="426.08928571428567" y="251.0" />
+              <point x="63.5" y="38.5" />
+            </edge>
+            <edge source="factory.abstractfactory.appleFactory" target="factory.abstractfactory.MyBeverages">
+              <point x="-50.80000000000001" y="-38.5" />
+              <point x="167.5321428571429" y="271.0" />
+              <point x="152.5" y="271.0" />
+              <point x="152.5" y="94.0" />
+              <point x="209.61428571428567" y="94.0" />
+              <point x="-26.599999999999994" y="27.0" />
+            </edge>
+            <edge source="factory.abstractfactory.appleFactory" target="factory.abstractfactory.appleCompote">
+              <point x="101.60000000000002" y="-38.5" />
+              <point x="319.93214285714294" y="271.0" />
+              <point x="577.0892857142857" y="271.0" />
+              <point x="0.0" y="27.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="512.0" y="232.0" />
+          <SelectedNodes>
+            <node>factory.abstractfactory.appleBeverages</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/simplefactory/FruitFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="4" selection-start-line="4" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/abstractfactory/FruitFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="34" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/abstractfactory/MyCompote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/abstractfactory/MyBeverages.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/abstractfactory/AbstractFactoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/abstractfactory/appleFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/abstractfactory/bananaFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+            <element signature="e#253#254#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/abstractfactory/appleCompote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="5" column="5" selection-start-line="3" selection-start-column="3" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/factory/abstractfactory/bananaCompote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>fruit-factory</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
